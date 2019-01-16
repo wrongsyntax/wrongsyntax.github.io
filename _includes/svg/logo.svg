@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="286" height="286" viewBox="0 0 286 286">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.151" y1="-0.359" x2="0.946" y2="1.247" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffab"/>
+      <stop offset="1" stop-color="#6b0ec8"/>
+    </linearGradient>
+    <clipPath id="clip-custom_1">
+      <rect width="286" height="286"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <path id="Intersection_1" data-name="Intersection 1" d="M199.633,125.9a6.626,6.626,0,0,1,0-9.367l42.389-42.389L199.633,31.756A6.623,6.623,0,1,1,209,22.391l46.834,46.834a7.226,7.226,0,0,1,0,9.841L209,125.9a6.624,6.624,0,0,1-9.367,0Zm-142.408,0L10.389,79.067a7.226,7.226,0,0,1,0-9.843L57.224,22.389a6.624,6.624,0,1,1,9.367,9.367L24.2,74.147,66.59,116.534a6.623,6.623,0,1,1-9.366,9.367Zm67.453-8.524a6.627,6.627,0,0,1-1.627-9.224l51.581-73.666a6.624,6.624,0,0,1,10.853,7.6L133.9,115.751a6.624,6.624,0,0,1-9.224,1.627Zm-37.848,0a6.627,6.627,0,0,1-1.627-9.224l51.581-73.666a6.623,6.623,0,1,1,10.851,7.6L96.054,115.751a6.624,6.624,0,0,1-9.224,1.627Z" transform="translate(10 69)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
