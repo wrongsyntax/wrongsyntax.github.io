@@ -34,3 +34,5 @@ or maybe
 This is going to be the best blog you have ever seen.
 
 Stay tuned for the first legit post.
+
+{% include index.html %}
