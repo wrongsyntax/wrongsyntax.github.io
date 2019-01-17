@@ -22,6 +22,8 @@ key: page-about
 
 ---
 
+![logo](&&&SFLOCALFILEPATH&&&logo.png)
+
 This is a blog, but I don't know a thing about blogging, so don't rip me to shreds
 in the comments.
 
