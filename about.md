@@ -22,7 +22,7 @@ key: page-about
 
 ---
 
-![logo](https://www.dropbox.com/s/wpvy57uwfsfhvol/logo.png?raw=1)
+![logo](/images/logo-banner,png)
 
 This is a blog, but I don't know a thing about blogging, so don't rip me to shreds
 in the comments.
