@@ -1,28 +1,7 @@
----
-layout: article
-titles:
-  en: &EN About //
-  en-GB: *EN
-  en-US: *EN
-  en-CA: *EN
-  en-AU: *EN
-  zh-Hans: &ZH_HANS 关于
-  zh: *ZH_HANS
-  zh-CN: *ZH_HANS
-  zh-SG: *ZH_HANS
-  zh-Hant: &ZH_HANT 關於
-  zh-TW: *ZH_HANT
-  zh-HK: *ZH_HANT
-  ko: &KO 소개
-  ko-KR: *KO
-key: page-about
----
-
 ## Welcome to Wrong Syntax!
 
 ![[ Site Status ]](https://img.shields.io/uptimerobot/status/m781801345-28ba026580e9d5f9cca5581a.svg?label=site%20status&style=flat-square)
 ![[ Last Update ]](https://img.shields.io/github/last-commit/wrongsyntax/wrongsyntax.github.io.svg?label=last%20update&style=flat-square)
-
 ![[ Repo Size ]](https://img.shields.io/github/repo-size/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
 ![[ Code Size ]](https://img.shields.io/github/languages/code-size/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
 
