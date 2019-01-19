@@ -1,7 +1,6 @@
 ---
 title: Comments test
+comment: true
 ---
 
 test
-
-{%- include index.html -%}
