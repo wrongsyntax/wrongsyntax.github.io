@@ -24,6 +24,7 @@ key: page-about
 ![[ Last Update ]](https://img.shields.io/github/last-commit/wrongsyntax/wrongsyntax.github.io.svg?label=last%20update&style=flat-square)
 ![[ Repo Size ]](https://img.shields.io/github/repo-size/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
 ![[ Code Size ]](https://img.shields.io/github/languages/code-size/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
+![[ Chat on Gitter ]](https://img.shields.io/gitter/room/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
 
 ---
 
