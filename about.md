@@ -22,9 +22,8 @@ key: page-about
 
 ![[ Site Status ]](https://img.shields.io/uptimerobot/status/m781801345-28ba026580e9d5f9cca5581a.svg?label=site%20status&style=flat-square)
 ![[ Last Update ]](https://img.shields.io/github/last-commit/wrongsyntax/wrongsyntax.github.io.svg?label=last%20update&style=flat-square)
-![[ Repo Size ]](https://img.shields.io/github/repo-size/wrongsyntax/wrongsyntax.github.io.svg?colorB=brightgreen&style=flat-square)
-![[ Code Size ]](https://img.shields.io/github/languages/code-size/wrongsyntax/wrongsyntax.github.io.svg?colorB=breightgreen&style=flat-square)
-![[ Chat on Gitter ]](https://img.shields.io/gitter/room/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)
+[![CodeFactor](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io/badge?style=flat-square)](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io)
+[![Gitter Chat](https://img.shields.io/gitter/room/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)](https://gitter.im/Wrong-Syntax/community)
 
 ---
 
