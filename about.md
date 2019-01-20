@@ -2,32 +2,21 @@
 layout: article
 titles:
   en: &EN About //
-  en-GB: *EN
-  en-US: *EN
-  en-CA: *EN
-  en-AU: *EN
-  zh-Hans: &ZH_HANS 关于
-  zh: *ZH_HANS
-  zh-CN: *ZH_HANS
-  zh-SG: *ZH_HANS
-  zh-Hant: &ZH_HANT 關於
-  zh-TW: *ZH_HANT
-  zh-HK: *ZH_HANT
-  ko: &KO 소개
-  ko-KR: *KO
 key: page-about
 ---
 
-### Welcome to Wrong Syntax!
+<p align="center">
+  <a href="https://wrongsyntax.github.io">
+    <img alt="Wrong Syntax" src="images/logo-banner.png">
+</p>
 
-![[ Site Status ]](https://img.shields.io/uptimerobot/status/m781801345-28ba026580e9d5f9cca5581a.svg?label=site%20status&style=flat-square)
-![[ Last Update ]](https://img.shields.io/github/last-commit/wrongsyntax/wrongsyntax.github.io.svg?label=last%20update&style=flat-square)
-[![CodeFactor](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io/badge?style=flat-square)](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io)
-[![Gitter Chat](https://img.shields.io/gitter/room/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)](https://gitter.im/Wrong-Syntax/community)
-
+<p align="center">
+  ![[ Site Status ]](https://img.shields.io/uptimerobot/status/m781801345-28ba026580e9d5f9cca5581a.svg?label=site%20status&style=flat-square)
+  ![[ Last Update ]](https://img.shields.io/github/last-commit/wrongsyntax/wrongsyntax.github.io.svg?label=last%20update&style=flat-square)
+  [![CodeFactor](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io/badge?style=flat-square)](https://www.codefactor.io/repository/github/wrongsyntax/wrongsyntax.github.io)
+  [![Gitter Chat](https://img.shields.io/gitter/room/wrongsyntax/wrongsyntax.github.io.svg?style=flat-square)](https://gitter.im/Wrong-Syntax/community)
+</p>
 ---
-
-![logo](/images/logo-banner.png)
 
 This is a blog, but I don't know a thing about blogging, so don't rip me to shreds
 in the comments.
