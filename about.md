@@ -40,3 +40,6 @@ If you ever have any ideas you think I should write about, [create a request.](h
 I'm just someone who likes to design and code.
 
 You can find me at the links at the bottom of the page.
+
+
+In conclusion, welcome to Wrong Syntax...
